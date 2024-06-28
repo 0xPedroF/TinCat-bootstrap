@@ -1,7 +1,20 @@
-# Tin Cat Project
+# TinCat Project
 
-HINT: To figure out which Bootstrap components/snippets are used. Refer to the PDF below:
-*To add in the future*
+## Overview
+TinCat is the ultimate dating app for your feline friends! Connect your cat with other interesting cats nearby, and help them find their purrfect match.
+
+## Technologies Used
+
+### HTML
+HTML is used to structure the content of the landing page, including headers, paragraphs, images, and links.
+### Bootstrap
+In this project, Bootstrap is used for responsive design, ensuring that the website looks great on all devices, from desktops to mobile phones. Key Bootstrap components and features used include:
+### CSS
+In this project, CSS is utilized to customize the appearance of the website beyond the default Bootstrap styles. 
+
+## HINT
+To figure out which Bootstrap components/snippets are used, refer to the PDF below:
+*To be added in the future*
 
 ## SVGs:
 
